@@ -1,1 +1,3 @@
-# gym-schedule
+# Gym Schedule
+
+### Monday - Friday Gym Workouts
